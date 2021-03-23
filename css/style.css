@@ -1,19 +1,18 @@
 #main-navbar {
-	width: 100%;
-	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#febbbb+0,fe9090+45,ff5c5c+100;Red+3D+%231 */
-	background: #febbbb; /* Old browsers */
-	background: -moz-linear-gradient(top,  #febbbb 0%, #fe9090 45%, #ff5c5c 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top,  #febbbb 0%,#fe9090 45%,#ff5c5c 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom,  #febbbb 0%,#fe9090 45%,#ff5c5c 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#febbbb', endColorstr='#ff5c5c',GradientType=0 ); /* IE6-9 */
+	background-color: crimson;
+	overflow: hidden;
+}
+
+#navbar-container {
 	float: left;
 	position: relative;
+	width: 100%;
 }
 
 #main-navbar ul {
 	list-style-type: none;
 	margin:0;
-	padding: 0;
+	padding: 1em;
 	position: relative;
 	left: 50%;
 	float: left;
@@ -31,9 +30,59 @@
 	padding: 10px 20px;
 	color: #fff;
 	text-decoration: none;
+	font-family: 
 }
 
-h1 {
+#main-navbar ul li a:hover {
+	background-color: pink;
+}
+
+#onpage {
+	text-decoration: underline;
+}
+
+.clear {
+	clear: both;
+}
+
+#welcome {
+	font-family: "Monaco", monospace;
 	text-align: center;
 }
 	
+h3 h4 {
+
+}
+
+p {
+ font-size: smaller;
+}
+
+#wrapper {
+	width: 960px;
+}
+
+#aboutme {
+	float: left;
+	width: 630px;
+	margin: 0 20px;
+	padding: 10px;
+	background-color: lightgray;
+	border-radius: 10px;
+	border-color: black;
+}
+
+#additional {
+	float: left;
+	width: 230px;
+	margin: 0 20px 0 0;
+	padding: 10px;
+	background-color: lightgray;
+	border-radius: 10px;
+	border-color: black;
+}
+
+.clear {
+	clear: left;
+}
+
