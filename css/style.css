@@ -1,3 +1,4 @@
+/*navigation*/
 #main-navbar {
 	background-color: crimson;
 	overflow: hidden;
@@ -45,44 +46,44 @@
 	clear: both;
 }
 
+/*homepage*/
 #welcome {
 	font-family: "Monaco", monospace;
 	text-align: center;
+	color: darkred;
 }
 	
-h3 h4 {
-
+h2, h3, h4{
+	color: darkred;
 }
 
-p {
- font-size: smaller;
-}
 
 #wrapper {
 	width: 960px;
+	margin: auto;
 }
 
 #aboutme {
 	float: left;
-	width: 630px;
-	margin: 0 20px;
+	width: 500px;
 	padding: 10px;
+	margin: 0 20px;
 	background-color: lightgray;
 	border-radius: 10px;
-	border-color: black;
 }
 
 #additional {
 	float: left;
-	width: 230px;
-	margin: 0 20px 0 0;
+	width: 340px;
 	padding: 10px;
+	margin: 0 20px;
 	background-color: lightgray;
 	border-radius: 10px;
-	border-color: black;
 }
 
-.clear {
-	clear: left;
-}
+/*ballet page*/
+#
+
+/*resume*/
+
 
