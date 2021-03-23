@@ -1,4 +1,4 @@
-/*navigation*/
+/*navigation and code for all pages*/
 #main-navbar {
 	background-color: crimson;
 	overflow: hidden;
@@ -46,17 +46,20 @@
 	clear: both;
 }
 
+h2, h3, h4{
+	color: darkred;
+}
+
+h2, h3 {
+	text-decoration: underline;
+}
+
 /*homepage*/
 #welcome {
 	font-family: 'Bebas Neue', cursive;
 	text-align: center;
 	color: darkred;
 }
-	
-h2, h3, h4{
-	color: darkred;
-}
-
 
 #wrapper {
 	width: 960px;
@@ -87,7 +90,25 @@ h2, h3, h4{
 	color: darkred;
 }
 
-
+#ballet-overview {
+	
+}
+	
 /*resume*/
+#name-contact {
+	width: 25%;
+	margin-left: 5%;
+	float: left;
+}
+
+#resume-content {
+	width: 50%;
+	float: left;
+	margin: 5% 5% 5% 0;
+	padding: 10px;
+	background-color: lightgray;
+	border-radius: 10px;
+}
+
 
 
