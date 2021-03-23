@@ -48,7 +48,7 @@
 
 /*homepage*/
 #welcome {
-	font-family: "Monaco", monospace;
+	font-family: 'Bebas Neue', cursive;
 	text-align: center;
 	color: darkred;
 }
@@ -82,7 +82,11 @@ h2, h3, h4{
 }
 
 /*ballet page*/
-#
+#ballet-h1 {
+	text-align: center;
+	color: darkred;
+}
+
 
 /*resume*/
 
