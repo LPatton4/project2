@@ -40,6 +40,7 @@
 
 #onpage {
 	text-decoration: underline;
+	text-decoration-style: double;
 }
 
 .clear {
