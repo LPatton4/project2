@@ -104,7 +104,7 @@ h2, h3 {
 #ballet-overview {
 	width: 345px;
 	border-radius: 10px;
-	margin: 0 0 150px 375px;
+	margin-left: 375px;
 	padding: 10px;
 	background-color: lightgray;
 }
@@ -125,26 +125,26 @@ h2, h3 {
 	clear: left;
 	float: left;
 	width: 40%;
-	margin: 0 5%;
+	margin: 10% 5% 5% 5%;
 }
 
 #floor-content {
 	float: left;
 	width: 40%;
-	margin: 0 5% 0 0;
+	margin: 10% 5% 5% 0;
 }
 
 #pointe-content {
 	clear: left;
 	float: left;
 	width: 40%;
-	margin: 0 5%;
+	margin: 0 5% 5% 5%;
 }
 
 #reverence-content {
 	float: left;
 	width: 40%;
-	margin: 0 5% 0 0;
+	margin: 0 5% 5% 0;
 }
 	
 /*resume*/
