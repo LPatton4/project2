@@ -98,7 +98,7 @@ h2, h3 {
 }
 
 #ballet-overview {
-	width: 800px;
+	width: 900px;
 	border-radius: 10px;
 	margin-left: auto;
 	margin-right: auto;
@@ -107,7 +107,7 @@ h2, h3 {
 }
 
 #ballet-overview strong {
-	text-decoration: underline wavy crimson;
+	text-decoration: underline crimson;
 }
 
 #caption {
@@ -130,6 +130,7 @@ h2, h3 {
 	padding: 10px;
 	border-radius: 10px;
 }
+
 #floor-content {
 	float: left;
 	width: 40%;
@@ -165,6 +166,10 @@ h2, h3 {
 	background-color: lightgray;
 	padding: 10px;
 	border-radius: 10px;
+}
+
+#conclusion {
+	clear: left;
 }
 	
 /*resume*/
