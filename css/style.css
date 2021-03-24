@@ -189,6 +189,11 @@ h2, h3 {
 	float: left;
 }
 
+#name-contact h1 {
+	font-family: 'Passion One', cursive;
+	color: darkred;
+}
+
 #resume-content {
 	width: 50%;
 	float: left;
