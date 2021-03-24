@@ -90,21 +90,18 @@ h2, h3 {
 	color: darkred;
 }
 
-#ballet-intro-wrap {
-	width: 750px;
-	margin: 0 auto;
-}
-
 #pic-and-caption {
 	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
-	position: absolute;
 }
 
 #ballet-overview {
-	width: 345px;
+	width: 800px;
 	border-radius: 10px;
-	margin-left: 375px;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 10px;
 	background-color: lightgray;
 }
@@ -125,13 +122,24 @@ h2, h3 {
 	clear: left;
 	float: left;
 	width: 40%;
-	margin: 10% 5% 5% 5%;
+	margin: 5% 5% 5% 5%;
 }
 
+#barre-content p {
+	background-color: lightgray;
+	padding: 10px;
+	border-radius: 10px;
+}
 #floor-content {
 	float: left;
 	width: 40%;
-	margin: 10% 5% 5% 0;
+	margin: 5% 5% 5% 0;
+}
+
+#floor-content p {
+	background-color: lightgray;
+	padding: 10px;
+	border-radius: 10px;
 }
 
 #pointe-content {
@@ -141,10 +149,22 @@ h2, h3 {
 	margin: 0 5% 5% 5%;
 }
 
+#pointe-content p {
+	background-color: lightgray;
+	padding: 10px;
+	border-radius: 10px;
+}
+
 #reverence-content {
 	float: left;
 	width: 40%;
 	margin: 0 5% 5% 0;
+}
+
+#reverence-content p {
+	background-color: lightgray;
+	padding: 10px;
+	border-radius: 10px;
 }
 	
 /*resume*/
