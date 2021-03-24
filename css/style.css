@@ -90,10 +90,31 @@ h2, h3 {
 	color: darkred;
 }
 
-#ballet-overview {
-	
+#ballet-intro-wrap {
+	width:960px;
 }
-	
+
+#pic-and-caption {
+	width: 250px;
+	margin: 10px;
+}
+
+#ballet-overview {
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+	background-color: lightgray;
+}
+
+#ballet-overview strong {
+	color: crimson;
+	text-decoration: underline dotted crimson;
+}
+
+#caption {
+	font-size: smaller;
+}
+
 /*resume*/
 #name-contact {
 	width: 25%;
