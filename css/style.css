@@ -47,6 +47,14 @@
 	clear: both;
 }
 
+.me-pics {
+	width: 300px;
+}
+
+.ballet-pics {
+	height: 200px;
+}
+
 h2, h3, h4{
 	color: darkred;
 	font-family: Tahoma, sans-serif;
