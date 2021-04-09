@@ -58,6 +58,7 @@ h2, h3 {
 
 .me-pics {
 	width: 300px;
+	margin: auto;
 }
 
 /*homepage*/
@@ -99,6 +100,7 @@ h2, h3 {
 
 .ballet-pics {
 	height: 200px;
+	margin: auto;
 }
 
 #pic-and-caption {
