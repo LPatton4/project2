@@ -47,14 +47,6 @@
 	clear: both;
 }
 
-.me-pics {
-	width: 300px;
-}
-
-.ballet-pics {
-	height: 200px;
-}
-
 h2, h3, h4{
 	color: darkred;
 	font-family: Tahoma, sans-serif;
@@ -62,6 +54,10 @@ h2, h3, h4{
 
 h2, h3 {
 	text-decoration: underline;
+}
+
+.me-pics {
+	width: 300px;
 }
 
 /*homepage*/
@@ -99,6 +95,10 @@ h2, h3 {
 	font-family: 'Passion One', cursive;
 	text-align: center;
 	color: darkred;
+}
+
+.ballet-pics {
+	height: 200px;
 }
 
 #pic-and-caption {
